@@ -78,5 +78,5 @@ var _data = [
 	{
 		'name':'echo回声',
 		'url':'http://www.app-echo.com/'
-	}
+	} 
 ];
