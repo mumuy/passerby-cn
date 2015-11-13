@@ -74,5 +74,9 @@ var _data = [
 	{
 		'name':'音乐吹泡地',
 		'url':'http://www.m-instyle.cn/'
+	},
+	{
+		'name':'echo回声',
+		'url':'http://www.app-echo.com/'
 	}
 ];
