@@ -1,0 +1,34 @@
+var _data = [
+	{
+		'name':'煎蛋',
+		'url':'http://jandan.net/'		
+	},
+	{
+		'name':'几分钟',
+		'url':'http://www.jifenzhong.com/'
+	},
+	{
+		'name':'有意思吧',
+		'url':'http://www.u148.net/'
+	},
+	{
+		'name':'堆糖',
+		'url':'http://www.duitang.com/'
+	},
+	{
+		'name':'麦田怪圈',
+		'url':'http://www.maitianquan.com/'		
+	},
+	{
+		'name':'solidot',
+		'url':'http://www.solidot.org/'
+	},
+	{
+		'name':'爱虎趣',
+		'url':'http://www.ihuqu.com/'
+	},
+	{
+		'name':'TOM探索',
+		'url':'http://discovery.tom.com/'
+	}
+];

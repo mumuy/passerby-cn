@@ -1,0 +1,110 @@
+@charset "utf-8";
+/*
+reset.css
+*/
+html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:text-top}sub{vertical-align:text-bottom}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;*font-size:100%}legend{color:#000}#yui3-css-stamp.cssreset{display:none}
+
+html{
+	height:100%;
+}
+body{
+	height:100%;
+	font-size: 12px;
+	font-family: "Microsoft Yahei",Arial,Helvetica;
+	min-height:640px;
+	overflow: hidden;
+}
+a{
+	text-decoration:none;
+	color:#006699;
+}
+.wraper{
+	position:relative;
+	height:100%;
+	background:#181818;
+}
+.side{
+	float:left;
+	position:relative;
+	width:120px;
+	height:100%;
+}
+.side .logo{
+	position:relative;
+	padding:24px 0 12px 6px;
+	margin-right:8px;
+	margin-bottom:35px;
+	border-bottom:1px solid #000;
+	color:#fff;
+}
+.side .logo:after{
+	position:absolute;
+	left:1px;
+	bottom: -1px;
+	display:block;
+	content:'';
+	width:25%;
+	height:1px;
+	background:rgb(189, 183, 107);
+}
+.side .logo h1{
+	line-height:22px;
+	font-size:16px;
+}
+.side ul{
+	margin-bottom: 10px;
+}
+.side li{
+	height:28px;
+	line-height:28px;
+	text-align:center;
+	font-size:14px;
+}
+.side li a{
+	display:block;
+	color:#ccc;
+}
+.side li a:hover,.side li.active a{
+	background:rgb(189, 183, 107);
+	color:#fff;
+}
+.side .copy{
+	position:absolute;
+	bottom:0;
+	padding-left:6px;
+	line-height:28px;
+	color:#ccc;
+}
+.content{
+	position:relative;
+	height:100%;
+	margin-left:120px;
+	overflow:hidden;
+}
+.page{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background:#f4f4f4;
+	font-size: 0;
+}
+.page iframe{
+	position: absolute;
+	top:0;
+	width:100%;
+	height: 100%;
+	border:none;
+}
+.page .msg{
+	width:480px;
+	height:400px;
+	margin:150px auto 0;
+	font-size: 16px;
+	color:#ccc;
+}
+.page .msg h1{
+	margin-bottom: 20px;
+	font-size: 36px;
+}

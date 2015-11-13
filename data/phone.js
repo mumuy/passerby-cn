@@ -1,0 +1,30 @@
+var _data = [
+	{
+		'name':'雷锋网',
+		'url':'http://www.leiphone.com/'		
+	}，
+	{
+		'name':'天极手机',
+		'url':'http://mobile.yesky.com/',
+	},
+	{
+		'name':'手机中国',
+		'url':'http://www.cnmo.com/'
+	},
+	{
+		'name':'中关村手机',
+		'url':'http://mobile.zol.com.cn/'
+	},
+	{
+		'name':'泡泡手机',
+		'url':'http://mobile.pcpop.com/'
+	},
+	{
+		'name':'网易手机',
+		'url':'http://mobile.163.com/'
+	},
+	{
+		'name':'91手机',
+		'url':'http://www.91.com/'
+	}
+];

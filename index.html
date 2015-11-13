@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>路人甲 - 发现一个好网站</title>
+		<meta name="keywords" content="上网导航,随机导航,网址导航,随机浏览,上网冲浪,任意门">
+		<meta name="description" content="路人甲,最有新意的随机导航网,发现你的兴趣,打发你的时间,好网站随时掌握">
+		<link rel="shortcut icon" href="/img/favicon.png">
+		<link href="css/index.css" rel="stylesheet" type="text/css" />
+		<script src="js/common.js"></script>
+	</head>
+	<body>
+		<div class="wraper">
+			<div class="side">
+				<div class="logo">
+					<h1>Passerby</h1>
+				</div>
+				<ul>
+					<li id="all"><a href="?topic=all">随意</a></li>
+					<li id="rss"><a href="?topic=rss">订阅</a></li>
+					<li id="collect"><a href="?topic=collect">收藏</a></li>
+				</ul>
+				<ul id="list"></ul>
+				<div class="copy">&copy; passerby.cn</div>
+			</div>
+			<div class="content">
+				<div class="default">
+			
+				</div>
+				<div class="page">
+					<div class="msg">
+						<h1>漂流中……</h1>
+						<p>如果等待时间过长，请刷新页面重试!</p>
+					</div>
+					<iframe id="iframe" class="view" src="" width="100%" height="100%" seamless security="restricted" sandbox="allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+				</div>			
+			</div>
+		</div>
+		<script>
+			(function(){
+				var topic = {};
+				var type = getSearchObj()['topic'];
+				var $iframe = document.getElementById('iframe');
+				var $list = document.getElementById('list');
+				var items = [];
+				for(var i=0,len=_topics.length; i<len; i++){
+					if(_topics[i]['type'] == type){
+						topic = _topics[i];
+						items.push('<li class="active"><a href="?topic='+_topics[i]['type']+'">'+_topics[i]['name']+'</a></li>');
+					}else{
+						items.push('<li><a href="?topic='+_topics[i]['type']+'">'+_topics[i]['name']+'</a></li>');
+					}
+				}
+				var timestamp = +getCookie('timestamp');
+				var cur_timestamp = +new Date();
+				if(timestamp&&cur_timestamp - timestamp<3.6e6){		
+					if(topic&&!topic['type']){
+						type = 'all';
+						topic = _topics[~~(Math.random()*_topics.length)];
+					}
+					loadScript('data/'+topic['type']+'.js',function(){
+						var item = _data[~~(Math.random()*_data.length)];
+						$iframe.src = item['url'];
+					});
+					if('all,rss,collect'.indexOf(type)>-1){
+						document.getElementById(type).className = 'active';
+					}
+				}else{
+					$iframe.src = 'page/intro.html';
+				}
+				$iframe.onload = $iframe.onreadystatechange = function(){
+					this.style.background = '#ffffff';
+				}
+				$list.innerHTML = items.join('');
+				addCookie('timestamp',cur_timestamp);
+			})();
+		</script>
+	</body>
+</html>
