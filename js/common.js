@@ -34,7 +34,11 @@ var _topics = [
 	{
 		'name':'编程',
 		'type':'program'
-	}
+	},
+    {
+        'name':'美食',
+        'type':'food'
+    }
 ];
 
 function getSearchObj(){ 
