@@ -36,28 +36,11 @@ var _data = [
         'url':'http://www.bilibili.com/video/ent-food-1.html'     
     },
     {
-        'name':'cookpad',
-        'url':'http://cookpad.com/'     
-    },
-    {
         'name':'手工客',
         'url':'http://www.shougongke.com/category/13.html'     
     },
     {
         'name':'寻味网',
         'url':'http://www.xunweichina.com/'     
-    },
-    {
-        'name':'101cookbooks',
-        'url':'http://www.101cookbooks.com/'     
-    },
-    {
-        'name':'seriouseats',
-        'url':'http://www.seriouseats.com/'     
-    },
-    {
-        'name':'foodgawker',
-        'url':'https://foodgawker.com/'     
     }
-
 ];
