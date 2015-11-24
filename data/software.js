@@ -54,5 +54,9 @@ var _data = [
 	{
 		'name':'中关村下载',
 		'url':'http://xiazai.zol.com.cn/'
+	},
+	{
+		'name':'少数派',
+		'url':'http://sspai.com/'
 	}
 ];
