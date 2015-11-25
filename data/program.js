@@ -30,5 +30,9 @@ var _data = [
 	{
 		'name':'在线工具',
 		'url':'http://tool.oschina.net/'
+	},
+	{
+		'name':'cocoachina',
+		'url':'http://www.cocoachina.com/'
 	}
 ];
