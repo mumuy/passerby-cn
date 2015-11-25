@@ -42,5 +42,9 @@ var _data = [
     {
         'name':'寻味网',
         'url':'http://www.xunweichina.com/'     
+    },
+    {
+        'name':'网易美食',
+        'url':'http://travel.163.com/food/'
     }
 ];
