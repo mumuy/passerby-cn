@@ -162,5 +162,9 @@ var _data = [
 	{
 		'name':'快科技',
 		'url':'http://www.mydrivers.com/'
+	},
+	{
+		'name':'ipc.me',
+		'url':'http://www.ipc.me/'
 	}
 ];
