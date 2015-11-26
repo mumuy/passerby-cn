@@ -34,5 +34,9 @@ var _data = [
 	{
 		'name':'cocoachina',
 		'url':'http://www.cocoachina.com/'
+	},
+	{
+		'name':'现代魔法学院',
+		'url':'http://www.nowamagic.net/'
 	}
 ];
