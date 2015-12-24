@@ -72,10 +72,6 @@ var _data = [
 		'url':'http://www.yy.com/'		
 	},
 	{
-		'name':'爆米花网',
-		'url':'http://www.baomihua.com/'
-	},
-	{
 		'name':'v电影',
 		'url':'http://www.vmovier.com/'		
 	},
