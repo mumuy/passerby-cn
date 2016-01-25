@@ -1,9 +1,5 @@
 var _data = [
 	{
-		'name':'美乐',
-		'url':'http://www.meile.com/'
-	},
-	{
 		'name':'乐鼠无牙',
 		'url':'http://www.nofm.cn/'		
 	},
