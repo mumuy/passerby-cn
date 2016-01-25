@@ -98,5 +98,29 @@ var _data = [
 	{
 		'name':'前沿设计',
 		'url':'http://foreidea.com/'
+	},
+	{
+		'name':'追波',
+		'url':'http://dribbble.cn/'
+	},
+	{
+		'name':'设计青年',
+		'url':'http://design521.com/portal.php'
+	},
+	{
+		'name':'padmag',
+		'url':'http://www.padmag.cn/'
+	},
+	{
+		'name':'UI中国',
+		'url':'http://www.ui.cn/'
+	},
+	{
+		'name':'致设计',
+		'url':'http://www.zhisheji.com/'
+	},
+	{
+		'name':'图翼网',
+		'url':'http://www.tuyiyi.com/'
 	}
 ];
