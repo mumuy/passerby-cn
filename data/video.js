@@ -12,7 +12,7 @@ var _data = [
 		'url':'http://www.iqiyi.com/'		
 	},
 	{
-		'name':'迅雷看看',
+		'name':'响巣看看',
 		'url':'http://www.kankan.com/'		
 	},
 	{
@@ -96,7 +96,27 @@ var _data = [
 		'url':'http://www.douyutv.com/'
 	},
 	{
-		'name':'金鹰网',
+		'name':'芒果TV',
 		'url':'http://www.hunantv.com/'
+	},
+	{
+		'name':'熊猫TV',
+		'url':'http://www.panda.tv/'
+	},
+	{
+		'name':'哔哩哔哩',
+		'url':'http://www.bilibili.com/'
+	},
+	{
+		'name':'acfun',
+		'url':'http://www.acfun.tv/'
+	},
+	{
+		'name':'第一视频',
+		'url':'http://www.v1.cn/'
+	},
+	{
+		'name':'华数TV',
+		'url':'http://www.wasu.cn/'
 	}
 ];
