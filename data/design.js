@@ -122,5 +122,13 @@ var _data = [
 	{
 		'name':'图翼网',
 		'url':'http://www.tuyiyi.com/'
+	},
+	{
+		'name':'UI社',
+		'url':'http://www.uishe.cn/'
+	},
+	{
+		'name':'人人都是产品经理',
+		'url':'http://www.woshipm.com/'
 	}
 ];
