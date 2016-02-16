@@ -72,10 +72,6 @@ var _data = [
 		'url':'http://www.ellechina.com/'
 	},
 	{
-		'name':'瑞丽',
-		'url':'http://www.rayli.com.cn/'
-	},
-	{
 		'name':'轻奢网',
 		'url':'http://www.ileehoo.com/'
 	},

@@ -75,6 +75,16 @@ a{
 	line-height:28px;
 	color:#ccc;
 }
+.side .star{
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin:0 auto;
+	background: url('/img/icon-heart.png') 100% center no-repeat;
+}
+.side .star-active{
+	background-position: 0 center;
+}
 .content{
 	position:relative;
 	height:100%;

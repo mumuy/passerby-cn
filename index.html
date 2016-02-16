@@ -17,16 +17,17 @@
 				</div>
 				<ul>
 					<li id="all"><a href="?topic=all">随意</a></li>
-					<li id="rss"><a href="?topic=rss">订阅</a></li>
-					<li id="collect"><a href="?topic=collect">收藏</a></li>
+					<!-- <li id="rss"><a href="?topic=rss">订阅</a></li> -->
+					<li id="star"><a href="?topic=star">收藏</a></li>
 				</ul>
 				<ul id="list"></ul>
+				<div class="operation">
+					<a id="J_star" class="star" href="javascript:;"></a>
+				</div>
 				<div class="copy">&copy; passerby.cn</div>
 			</div>
 			<div class="content">
-				<div class="default">
-			
-				</div>
+				<div class="default"></div>
 				<div class="page">
 					<div class="msg">
 						<h1>漂流中……</h1>
@@ -42,7 +43,8 @@
 				var type = getSearchObj()['topic'];
 				var $iframe = document.getElementById('iframe');
 				var $list = document.getElementById('list');
-				var items = [];
+				var items = [],item={};
+				var starlist = localStorage['starlist']?JSON.parse(localStorage['starlist']):[];
 				for(var i=0,len=_topics.length; i<len; i++){
 					if(_topics[i]['type'] == type){
 						topic = _topics[i];
@@ -51,28 +53,57 @@
 						items.push('<li><a href="?topic='+_topics[i]['type']+'">'+_topics[i]['name']+'</a></li>');
 					}
 				}
+				//话题
 				var timestamp = +getCookie('timestamp');
 				var cur_timestamp = +new Date();
-				if(timestamp&&cur_timestamp - timestamp<3.6e6){		
-					if(topic&&!topic['type']){
-						type = 'all';
-						topic = _topics[~~(Math.random()*_topics.length)];
+				if(timestamp&&cur_timestamp - timestamp<3.6e6){
+					switch(type){
+						case 'star':
+							if(starlist.length){
+								item = {
+									'url':starlist[~~(Math.random()*starlist.length)]
+								}
+								$iframe.src = item['url'];
+							}else{
+								$iframe.src = 'page/nothing.html';
+							}
+						break;
+						default:
+							if(topic&&!topic['type']){
+								type = 'all';
+								topic = _topics[~~(Math.random()*_topics.length)];
+							}
+							loadScript('data/'+topic['type']+'.js',function(){
+								item = _data[~~(Math.random()*_data.length)];
+								$iframe.src = item['url'];
+							});
 					}
-					loadScript('data/'+topic['type']+'.js',function(){
-						var item = _data[~~(Math.random()*_data.length)];
-						$iframe.src = item['url'];
-					});
-					if('all,rss,collect'.indexOf(type)>-1){
+					if('all,rss,star'.indexOf(type)>-1){
 						document.getElementById(type).className = 'active';
 					}
 				}else{
 					$iframe.src = 'page/intro.html';
 				}
+				addCookie('timestamp',cur_timestamp);
+				$list.innerHTML = items.join('');
 				$iframe.onload = $iframe.onreadystatechange = function(){
 					this.style.background = '#ffffff';
-				}
-				$list.innerHTML = items.join('');
-				addCookie('timestamp',cur_timestamp);
+				};
+				//收藏
+				var index = starlist.indexOf(item['url']);
+				var $star = document.getElementById('J_star');
+				$star.className = index>-1?'star star-active':'star';
+				$star.onclick = function(){
+					index = starlist.indexOf(item['url']);
+					if(index>-1){
+						starlist.splice(index,1);
+						this.className = 'star';
+					}else{
+						starlist.push(item['url']);
+						this.className = 'star star-active';
+					}
+					localStorage['starlist'] = JSON.stringify(starlist);
+				};
 			})();
 		</script>
 	</body>
