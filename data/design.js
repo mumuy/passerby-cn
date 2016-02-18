@@ -130,5 +130,9 @@ var _data = [
 	{
 		'name':'人人都是产品经理',
 		'url':'http://www.woshipm.com/'
+	},
+	{
+		'name':'中国设计',
+		'url':'http://www.cndesign.com/'
 	}
 ];
