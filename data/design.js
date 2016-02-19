@@ -134,5 +134,9 @@ var _data = [
 	{
 		'name':'中国设计',
 		'url':'http://www.cndesign.com/'
+	},
+	{
+		'name':'黄蜂网',
+		'url':'http://woofeng.cn/'
 	}
 ];
