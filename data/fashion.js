@@ -1,9 +1,5 @@
 var _data = [
 	{
-		'name':'奇客时尚',
-		'url':'http://www.hi-chic.com/'		
-	},
-	{
 		'name':'YOHO',
 		'url':'http://www.yoho.cn/'		
 	},
