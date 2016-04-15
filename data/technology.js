@@ -162,5 +162,9 @@ var _data = [
 	{
 		'name':'ipc.me',
 		'url':'http://www.ipc.me/'
+	},
+	{
+		'name':'科学松鼠会',
+		'url':'http://songshuhui.net/'
 	}
 ];
