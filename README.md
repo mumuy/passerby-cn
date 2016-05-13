@@ -1,3 +1,4 @@
-# passerby-cn.github.io
+#随机网址导航网
+地址：http://passerby.cn/
 
-随机导航网项目
+本网站由 passer-by.com 设计制作
