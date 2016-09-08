@@ -75,6 +75,9 @@ a{
 	line-height:28px;
 	color:#ccc;
 }
+.side .copy a{
+	color:#ccc;
+}
 .side .star{
 	display: block;
 	width: 24px;
