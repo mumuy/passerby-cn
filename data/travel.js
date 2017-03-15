@@ -52,10 +52,6 @@ var _data = [
 		'url':'http://www.yuelvxing.com/'		
 	},
 	{
-		'name':'爱游观察',
-		'url':'http://www.aiyou.me/'		
-	},
-	{
 		'name':'中国国家地理',
 		'url':'http://www.dili360.com/'		
 	},
