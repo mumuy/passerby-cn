@@ -4,10 +4,6 @@ var _data = [
 		'url':'http://www.hualvtu.com/'
 	},
 	{
-		'name':'奇遇网',
-		'url':'http://www.qiyu.net/'		
-	},
-	{
 		'name':'途牛网',
 		'url':'http://www.tuniu.com/'
 	},
@@ -114,5 +110,17 @@ var _data = [
 	{
 		'name':'中国网旅游',
 		'url':'http://www.china.com.cn/travel/'		
+	},
+	{
+		'name':'西祠旅游',
+		'url':'http://www.xici.net/travel/'		
+	},
+	{
+		'name':'中国网旅游',
+		'url':'http://travel.china.com.cn/'		
+	},
+	{
+		'name':'乐视旅游',
+		'url':'http://travel.le.com/'		
 	}
 ];
