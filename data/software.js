@@ -32,10 +32,6 @@ var _data = [
 		'url':'http://www.portablesoft.org/'		
 	},
 	{
-		'name':'livesino',
-		'url':'http://livesino.net/'		
-	},
-	{
 		'name':'机锋网',
 		'url':'http://apk.gfan.com/'		
 	},
@@ -58,5 +54,17 @@ var _data = [
 	{
 		'name':'少数派',
 		'url':'http://sspai.com/'
+	},
+	{
+		'name':'下载吧',
+		'url':'http://www.xiazaiba.com/'
+	},
+	{
+		'name':'PC6',
+		'url':'http://www.pc6.com/'
+	},
+	{
+		'name':'华军软件',
+		'url':'http://www.onlinedown.net/'
 	}
 ];
