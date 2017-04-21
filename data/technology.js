@@ -1,7 +1,7 @@
 var _data = [
 	{
 		'name':'果壳网',
-		'url':'http://www.guokr.com/'		
+		'url':'http://www.guokr.com/'
 	},
 	{
 		'name':'虎嗅网',
@@ -9,7 +9,7 @@ var _data = [
 	},
 	{
 		'name':'腾讯科技',
-		'url':'http://tech.qq.com/'		
+		'url':'http://tech.qq.com/'
 	},
 	{
 		'name':'cnbeta',
@@ -17,19 +17,19 @@ var _data = [
 	},
 	{
 		'name':'和讯科技',
-		'url':'http://tech.hexun.com/'		
+		'url':'http://tech.hexun.com/'
 	},
 	{
 		'name':'雷锋网',
-		'url':'http://www.leiphone.com/'		
+		'url':'http://www.leiphone.com/'
 	},
 	{
 		'name':'21CN科技',
-		'url':'http://it.21cn.com/'		
+		'url':'http://it.21cn.com/'
 	},
 	{
 		'name':'环球科技',
-		'url':'http://tech.huanqiu.com/'		
+		'url':'http://tech.huanqiu.com/'
 	},
 	{
 		'name':'新浪科技',
@@ -41,7 +41,7 @@ var _data = [
 	},
 	{
 		'name':'网易科技',
-		'url':'http://tech.163.com/'		
+		'url':'http://tech.163.com/'
 	},
 	{
 		'name':'钛媒体',
@@ -65,15 +65,15 @@ var _data = [
 	},
 	{
 		'name':'科技网',
-		'url':'http://www.sciencenet.cn/'		
+		'url':'http://www.sciencenet.cn/'
 	},
 	{
 		'name':'奇客',
-		'url':'http://www.solidot.org/'		
+		'url':'http://www.solidot.org/'
 	},
 	{
 		'name':'IT之家',
-		'url':'http://www.ithome.com/'		
+		'url':'http://www.ithome.com/'
 	},
 	{
 		'name':'比特网',
@@ -85,11 +85,11 @@ var _data = [
 	},
 	{
 		'name':'飞象网',
-		'url':'http://www.cctime.com/'		
+		'url':'http://www.cctime.com/'
 	},
 	{
 		'name':'艾瑞网',
-		'url':'http://www.iresearch.cn/'		
+		'url':'http://www.iresearch.cn/'
 	},
 	{
 		'name':'猎云网',
@@ -97,59 +97,55 @@ var _data = [
 	},
 	{
 		'name':'新芽',
-		'url':'http://newseed.pedaily.cn/'		
+		'url':'http://newseed.pedaily.cn/'
 	},
 	{
 		'name':'创客100',
-		'url':'http://www.100tmt.com/'		
+		'url':'http://www.100tmt.com/'
 	},
 	{
 		'name':'cnnet科技讯',
-		'url':'http://www.cnetnews.com.cn/'		
+		'url':'http://www.cnetnews.com.cn/'
 	},
 	{
 		'name':'泡泡网',
-		'url':'http://www.pcpop.com/'		
+		'url':'http://www.pcpop.com/'
 	},
 	{
 		'name':'第三媒体',
-		'url':'http://www.thethirdmedia.com/'		
+		'url':'http://www.thethirdmedia.com/'
 	},
 	{
 		'name':'烙印网',
-		'url':'http://www.loorin.com/'		
+		'url':'http://www.loorin.com/'
 	},
 	{
 		'name':'驱动中国',
-		'url':'http://www.qudong.com/'		
+		'url':'http://www.qudong.com/'
 	},
 	{
 		'name':'电商时代',
-		'url':'http://www.it168.com/'		
+		'url':'http://www.it168.com/'
 	},
 	{
 		'name':'搜狐IT',
-		'url':'http://it.sohu.com/'		
+		'url':'http://it.sohu.com/'
 	},
 	{
 		'name':'网易数码',
-		'url':'http://digi.163.com/'		
+		'url':'http://digi.163.com/'
 	},
 	{
 		'name':'科学公园',
-		'url':'http://www.scipark.net/'		
+		'url':'http://www.scipark.net/'
 	},
 	{
 		'name':'创业邦',
-		'url':'http://www.cyzone.cn/'		
+		'url':'http://www.cyzone.cn/'
 	},
 	{
 		'name':'速途',
-		'url':'http://www.sootoo.com/'		
-	},
-	{
-		'name':'互联网的一些事',
-		'url':'http://www.yixieshi.com/'
+		'url':'http://www.sootoo.com/'
 	},
 	{
 		'name':'i黑马',
