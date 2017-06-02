@@ -21,11 +21,11 @@ var _data = [
 	},
 	{
 		'name':'花瓣设计',
-		'url':'http://huaban.com/design/'		
+		'url':'http://huaban.com/design/'
 	},
 	{
 		'name':'设计之家',
-		'url':'http://www.sj33.cn/'		
+		'url':'http://www.sj33.cn/'
 	},
 	{
 		'name':'懒人图库',
@@ -37,7 +37,7 @@ var _data = [
 	},
 	{
 		'name':'视觉中国',
-		'url':'http://shijue.me/home'
+		'url':'http://shijue.me/'
 	},
 	{
 		'name':'设计路上',
@@ -92,8 +92,8 @@ var _data = [
 		'url':'http://www.ideamsg.com/'
 	},
 	{
-		'name':'1984',
-		'url':'http://since1984.cn/'
+		'name':'设计邦',
+		'url':'http://designboom.cn/'
 	},
 	{
 		'name':'前沿设计',
@@ -138,5 +138,17 @@ var _data = [
 	{
 		'name':'黄蜂网',
 		'url':'http://woofeng.cn/'
+	},
+	{
+		'name':'设计癖',
+		'url':'http://www.shejipi.com/'
+	},
+	{
+		'name':'设计腕儿',
+		'url':'http://www.designwire.com.cn/'
+	},
+	{
+		'name':'秀设计',
+		'url':'http://www.xiusheji.com/'
 	}
 ];
