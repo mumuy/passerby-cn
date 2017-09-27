@@ -92,10 +92,6 @@ var _data = [
 		'url':'http://v.hao123.com/'
 	},
 	{
-		'name':'斗鱼',
-		'url':'http://www.douyutv.com/'
-	},
-	{
 		'name':'芒果TV',
 		'url':'http://www.hunantv.com/'
 	},
@@ -118,5 +114,13 @@ var _data = [
 	{
 		'name':'华数TV',
 		'url':'http://www.wasu.cn/'
+	},
+	{
+		'name':'虎牙直播',
+		'url':'http://www.huya.com/'
+	},
+	{
+		'name':'熊猫直播',
+		'url':'https://www.panda.tv/'
 	}
 ];

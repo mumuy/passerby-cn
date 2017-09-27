@@ -4,16 +4,16 @@
 		'url':'http://www.17173.com/'
 	},
 	{
-		'name':'游吧',
-		'url':'http://www.youba.com/'
-	},
-	{
 		'name':'18183',
 		'url':'http://www.18183.com/'
 	},
 	{
 		'name':'4399小游戏',
 		'url':'http://www.4399.com/'
+	},
+	{
+		'name':'4399手游',
+		'url':'http://www.4399.cn/'
 	},
 	{
 		'name':'多玩游戏',

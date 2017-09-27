@@ -1,19 +1,11 @@
 var _data = [
 	{
-		'name':'infoQ',
-		'url':'http://www.infoq.com/cn/'
-	},
-	{
 		'name':'w3school',
 		'url':'http://www.w3school.com.cn/'
 	},
 	{
 		'name':'蓝色理想',
 		'url':'http://bbs.blueidea.com/'
-	},
-	{
-		'name':'博客园',
-		'url':'http://www.cnblogs.com/'
 	},
 	{
 		'name':'CSDN',
@@ -34,5 +26,13 @@ var _data = [
 	{
 		'name':'现代魔法学院',
 		'url':'http://www.nowamagic.net/'
+	},
+	{
+		'name':'掘金',
+		'url':'https://juejin.im/'
+	},
+	{
+		'name':'路人甲',
+		'url':'http://passer-by.com/'
 	}
 ];

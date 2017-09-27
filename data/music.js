@@ -12,10 +12,6 @@ var _data = [
 		'url':'http://www.xiami.com/'		
 	},
 	{
-		'name':'落网',
-		'url':'http://bus.fm/'
-	},
-	{
 		'name':'一听音乐',
 		'url':'http://www.1ting.com/'		
 	},
@@ -32,6 +28,10 @@ var _data = [
 		'url':'http://www.kugou.com/'		
 	},
 	{
+		'name':'5sing',
+		'url':'http://5sing.kugou.com/index.html'
+	},
+	{
 		'name':'9酷音乐',
 		'url':'http://www.9ku.com/'
 	},
@@ -41,7 +41,7 @@ var _data = [
 	},
 	{
 		'name':'咪咕音乐',
-		'url':'http://www.migu.cn/'
+		'url':'http://music.migu.cn/'
 	},
 	{
 		'name':'酷我',
@@ -54,10 +54,6 @@ var _data = [
 	{
 		'name':'QQ音乐',
 		'url':'http://y.qq.com/'
-	},
-	{
-		'name':'音乐之声',
-		'url':'http://www.musicradio.com.cn/'
 	},
 	{
 		'name':'九天',
@@ -82,5 +78,17 @@ var _data = [
 	{
 		'name':'落网',
 		'url':'http://www.luoo.net/'
-	}
+	},
+	{
+		'name':'音乐先锋榜',
+		'url':'http://music.weibo.com/'
+	},
+	{
+		'name':'音悦台',
+		'url':'http://www.yinyuetai.com/'
+	},
+	{
+		'name':'好铃声',
+		'url':'http://www.haolingsheng.com/'
+	}	
 ];

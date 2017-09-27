@@ -40,11 +40,19 @@ var _data = [
         'url':'http://www.shougongke.com/category/13.html'     
     },
     {
-        'name':'寻味网',
-        'url':'http://www.xunweichina.com/'     
-    },
-    {
         'name':'网易美食',
         'url':'http://travel.163.com/food/'
+    },
+    {
+        'name':'搜狐美食',
+        'url':'http://chihe.sohu.com/chihe_new.shtml'
+    },
+    {
+        'name':'呀觅',
+        'url':'http://www.tripyum.com/'
+    },
+    {
+        'name':'美食掌门',
+        'url':'http://www.meishiwang.cc/'
     }
 ];

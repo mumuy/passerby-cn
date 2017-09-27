@@ -100,10 +100,6 @@ var _data = [
 		'url':'http://newseed.pedaily.cn/'
 	},
 	{
-		'name':'创客100',
-		'url':'http://www.100tmt.com/'
-	},
-	{
 		'name':'cnnet科技讯',
 		'url':'http://www.cnetnews.com.cn/'
 	},
@@ -114,10 +110,6 @@ var _data = [
 	{
 		'name':'第三媒体',
 		'url':'http://www.thethirdmedia.com/'
-	},
-	{
-		'name':'烙印网',
-		'url':'http://www.loorin.com/'
 	},
 	{
 		'name':'驱动中国',
@@ -162,5 +154,13 @@ var _data = [
 	{
 		'name':'科学松鼠会',
 		'url':'http://songshuhui.net/'
+	},
+	{
+		'name':'威锋网',
+		'url':'http://www.feng.com/'
+	},
+	{
+		'name':'凤凰科技',
+		'url':'http://tech.ifeng.com/',
 	}
 ];
