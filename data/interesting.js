@@ -30,5 +30,9 @@ var _data = [
 	{
 		'name':'TOM探索',
 		'url':'http://discovery.tom.com/'
+	},
+	{
+		'name':'好奇日报',
+		'url':'http://www.qdaily.com/'
 	}
 ];
