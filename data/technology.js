@@ -128,10 +128,6 @@ var _data = [
 		'url':'http://digi.163.com/'
 	},
 	{
-		'name':'科学公园',
-		'url':'http://www.scipark.net/'
-	},
-	{
 		'name':'创业邦',
 		'url':'http://www.cyzone.cn/'
 	},
