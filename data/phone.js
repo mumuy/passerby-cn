@@ -1,30 +1,30 @@
 var _data = [
 	{
 		'name':'雷锋网',
-		'url':'http://www.leiphone.com/'		
+		'url':'//www.leiphone.com/'
 	}，
 	{
 		'name':'天极手机',
-		'url':'http://mobile.yesky.com/',
+		'url':'//mobile.yesky.com/',
 	},
 	{
 		'name':'手机中国',
-		'url':'http://www.cnmo.com/'
+		'url':'//www.cnmo.com/'
 	},
 	{
 		'name':'中关村手机',
-		'url':'http://mobile.zol.com.cn/'
+		'url':'//mobile.zol.com.cn/'
 	},
 	{
 		'name':'泡泡手机',
-		'url':'http://mobile.pcpop.com/'
+		'url':'//mobile.pcpop.com/'
 	},
 	{
 		'name':'网易手机',
-		'url':'http://mobile.163.com/'
+		'url':'//mobile.163.com/'
 	},
 	{
 		'name':'91手机',
-		'url':'http://www.91.com/'
+		'url':'//www.91.com/'
 	}
 ];

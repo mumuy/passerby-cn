@@ -1,154 +1,154 @@
 var _data = [
 	{
 		'name':'昵图',
-		'url':'http://www.nipic.com/'
+		'url':'//www.nipic.com/'
 	},
 	{
 		'name':'优艾网',
-		'url':'http://chinaui.com/'
+		'url':'//chinaui.com/'
 	},
 	{
 		'name':'素材天下',
-		'url':'http://www.sucaitianxia.com/'
+		'url':'//www.sucaitianxia.com/'
 	},
 	{
 		'name':'站酷',
-		'url':'http://www.zcool.com.cn/'
+		'url':'//www.zcool.com.cn/'
 	},
 	{
 		'name':'花瓣',
-		'url':'http://huaban.com/'
+		'url':'//huaban.com/'
 	},
 	{
 		'name':'花瓣设计',
-		'url':'http://huaban.com/design/'
+		'url':'//huaban.com/design/'
 	},
 	{
 		'name':'设计之家',
-		'url':'http://www.sj33.cn/'
+		'url':'//www.sj33.cn/'
 	},
 	{
 		'name':'懒人图库',
-		'url':'http://www.lanrentuku.com/'
+		'url':'//www.lanrentuku.com/'
 	},
 	{
 		'name':'DOOOOR',
-		'url':'http://www.doooor.com/'
+		'url':'//www.doooor.com/'
 	},
 	{
 		'name':'视觉中国',
-		'url':'http://shijue.me/'
+		'url':'//shijue.me/'
 	},
 	{
 		'name':'设计路上',
-		'url':'http://www.sj63.com/'
+		'url':'//www.sj63.com/'
 	},
 	{
 		'name':'设计一周',
-		'url':'http://ieday.cn/'
+		'url':'//ieday.cn/'
 	},
 	{
 		'name':'酷站志',
-		'url':'http://www.coolweb.com.cn/'
+		'url':'//www.coolweb.com.cn/'
 	},
 	{
 		'name':'想去',
-		'url':'http://www.xiangqu.com/'
+		'url':'//www.xiangqu.com/'
 	},
 	{
 		'name':'学UI网',
-		'url':'http://www.xueui.cn/'
+		'url':'//www.xueui.cn/'
 	},
 	{
 		'name':'简约生活',
-		'url':'http://www.closhow.cn/'
+		'url':'//www.closhow.cn/'
 	},
 	{
 		'name':'爱北欧',
-		'url':'http://www.ibeiou.com/'
+		'url':'//www.ibeiou.com/'
 	},
 	{
 		'name':'设计在线',
-		'url':'http://www.dolcn.com/'
+		'url':'//www.dolcn.com/'
 	},
 	{
 		'name':'中国设计网',
-		'url':'http://www.cndds.com/'
+		'url':'//www.cndds.com/'
 	},
 	{
 		'name':'60designwebpick',
-		'url':'http://60designwebpick.com/'
+		'url':'//60designwebpick.com/'
 	},
 	{
 		'name':'腾讯CDC',
-		'url':'http://cdc.tencent.com/'
+		'url':'//cdc.tencent.com/'
 	},
 	{
 		'name':'冰淇淋',
-		'url':'http://www.fisherv.com/'
+		'url':'//www.fisherv.com/'
 	},
 	{
 		'name':'灵感日报',
-		'url':'http://www.ideamsg.com/'
+		'url':'//www.ideamsg.com/'
 	},
 	{
 		'name':'设计邦',
-		'url':'http://designboom.cn/'
+		'url':'//designboom.cn/'
 	},
 	{
 		'name':'前沿设计',
-		'url':'http://foreidea.com/'
+		'url':'//foreidea.com/'
 	},
 	{
 		'name':'追波',
-		'url':'http://dribbble.cn/'
+		'url':'//dribbble.cn/'
 	},
 	{
 		'name':'设计青年',
-		'url':'http://design521.com/portal.php'
+		'url':'//design521.com/portal.php'
 	},
 	{
 		'name':'padmag',
-		'url':'http://www.padmag.cn/'
+		'url':'//www.padmag.cn/'
 	},
 	{
 		'name':'UI中国',
-		'url':'http://www.ui.cn/'
+		'url':'//www.ui.cn/'
 	},
 	{
 		'name':'致设计',
-		'url':'http://www.zhisheji.com/'
+		'url':'//www.zhisheji.com/'
 	},
 	{
 		'name':'图翼网',
-		'url':'http://www.tuyiyi.com/'
+		'url':'//www.tuyiyi.com/'
 	},
 	{
 		'name':'UI社',
-		'url':'http://www.uishe.cn/'
+		'url':'//www.uishe.cn/'
 	},
 	{
 		'name':'人人都是产品经理',
-		'url':'http://www.woshipm.com/'
+		'url':'//www.woshipm.com/'
 	},
 	{
 		'name':'中国设计',
-		'url':'http://www.cndesign.com/'
+		'url':'//www.cndesign.com/'
 	},
 	{
 		'name':'黄蜂网',
-		'url':'http://woofeng.cn/'
+		'url':'//woofeng.cn/'
 	},
 	{
 		'name':'设计癖',
-		'url':'http://www.shejipi.com/'
+		'url':'//www.shejipi.com/'
 	},
 	{
 		'name':'设计腕儿',
-		'url':'http://www.designwire.com.cn/'
+		'url':'//www.designwire.com.cn/'
 	},
 	{
 		'name':'秀设计',
-		'url':'http://www.xiusheji.com/'
+		'url':'//www.xiusheji.com/'
 	}
 ];

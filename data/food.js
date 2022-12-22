@@ -1,58 +1,58 @@
 var _data = [
     {
         'name':'下厨房',
-        'url':'http://www.xiachufang.com/'
+        'url':'//www.xiachufang.com/'
     },
     {
         'name':'豆果美食',
-        'url':'http://www.douguo.com/'     
+        'url':'//www.douguo.com/'
     },
     {
         'name':'美食杰',
-        'url':'http://www.meishij.net/'     
+        'url':'//www.meishij.net/'
     },
     {
         'name':'美食天下',
-        'url':'http://www.meishichina.com/'     
+        'url':'//www.meishichina.com/'
     },
     {
         'name':'中国菜谱网',
-        'url':'http://www.chinacaipu.com/'     
+        'url':'//www.chinacaipu.com/'
     },
     {
         'name':'美食吧',
-        'url':'http://www.sbar.com.cn/'     
+        'url':'//www.sbar.com.cn/'
     },
     {
         'name':'菜肴之家',
-        'url':'http://www.haozuo123.com/'     
+        'url':'//www.haozuo123.com/'
     },
     {
         'name':'天天饮食',
-        'url':'http://cctv.cntv.cn/lm/tiantianyinshi/'     
+        'url':'//cctv.cntv.cn/lm/tiantianyinshi/'
     },
     {
         'name':'美食圈',
-        'url':'http://www.bilibili.com/video/ent-food-1.html'     
+        'url':'//www.bilibili.com/video/ent-food-1.html'
     },
     {
         'name':'手工客',
-        'url':'http://www.shougongke.com/category/13.html'     
+        'url':'//www.shougongke.com/category/13.html'
     },
     {
         'name':'网易美食',
-        'url':'http://travel.163.com/food/'
+        'url':'//travel.163.com/food/'
     },
     {
         'name':'搜狐美食',
-        'url':'http://chihe.sohu.com/chihe_new.shtml'
+        'url':'//chihe.sohu.com/chihe_new.shtml'
     },
     {
         'name':'呀觅',
-        'url':'http://www.tripyum.com/'
+        'url':'//www.tripyum.com/'
     },
     {
         'name':'美食掌门',
-        'url':'http://www.meishiwang.cc/'
+        'url':'//www.meishiwang.cc/'
     }
 ];

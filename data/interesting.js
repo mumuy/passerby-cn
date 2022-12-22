@@ -1,38 +1,38 @@
 var _data = [
 	{
 		'name':'煎蛋',
-		'url':'http://jandan.net/'		
+		'url':'//jandan.net/'
 	},
 	{
 		'name':'几分钟',
-		'url':'http://www.jifenzhong.com/'
+		'url':'//www.jifenzhong.com/'
 	},
 	{
 		'name':'有意思吧',
-		'url':'http://www.u148.net/'
+		'url':'//www.u148.net/'
 	},
 	{
 		'name':'堆糖',
-		'url':'http://www.duitang.com/'
+		'url':'//www.duitang.com/'
 	},
 	{
 		'name':'麦田怪圈',
-		'url':'http://www.maitianquan.com/'		
+		'url':'//www.maitianquan.com/'
 	},
 	{
 		'name':'solidot',
-		'url':'http://www.solidot.org/'
+		'url':'//www.solidot.org/'
 	},
 	{
 		'name':'爱虎趣',
-		'url':'http://www.ihuqu.com/'
+		'url':'//www.ihuqu.com/'
 	},
 	{
 		'name':'TOM探索',
-		'url':'http://discovery.tom.com/'
+		'url':'//discovery.tom.com/'
 	},
 	{
 		'name':'好奇日报',
-		'url':'http://www.qdaily.com/'
+		'url':'//www.qdaily.com/'
 	}
 ];

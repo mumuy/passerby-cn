@@ -1,70 +1,70 @@
 var _data = [
 	{
 		'name':'威锋网',
-		'url':'http://www.feng.com/'
+		'url':'//www.feng.com/'
 	},
 	{
 		'name':'手机世界',
-		'url':'http://www.3533.com/'		
+		'url':'//www.3533.com/'
 	},
 	{
 		'name':'小众软件',
-		'url':'http://www.appinn.com/'
+		'url':'//www.appinn.com/'
 	},
 	{
 		'name':'软件盒子',
-		'url':'http://www.itopdog.cn/'		
+		'url':'//www.itopdog.cn/'
 	},
 	{
 		'name':'711软件站',
-		'url':'http://www.soft711.com/'		
+		'url':'//www.soft711.com/'
 	},
 	{
 		'name':'手机应用',
-		'url':'http://app.cnmo.com/'		
+		'url':'//app.cnmo.com/'
 	},
 	{
 		'name':'CPhome下载',
-		'url':'http://download.pchome.net/'		
+		'url':'//download.pchome.net/'
 	},
 	{
 		'name':'便携软件',
-		'url':'http://www.portablesoft.org/'		
+		'url':'//www.portablesoft.org/'
 	},
 	{
 		'name':'机锋网',
-		'url':'http://apk.gfan.com/'		
+		'url':'//apk.gfan.com/'
 	},
 	{
 		'name':'天空软件',
-		'url':'http://www.skycn.com/'		
+		'url':'//www.skycn.com/'
 	},
 	{
 		'name':'木蚂蚁',
-		'url':'http://www.mumayi.com/'		
+		'url':'//www.mumayi.com/'
 	},
 	{
 		'name':'应用汇',
-		'url':'http://www.appchina.com/'
+		'url':'//www.appchina.com/'
 	},
 	{
 		'name':'中关村下载',
-		'url':'http://xiazai.zol.com.cn/'
+		'url':'//xiazai.zol.com.cn/'
 	},
 	{
 		'name':'少数派',
-		'url':'http://sspai.com/'
+		'url':'//sspai.com/'
 	},
 	{
 		'name':'下载吧',
-		'url':'http://www.xiazaiba.com/'
+		'url':'//www.xiazaiba.com/'
 	},
 	{
 		'name':'PC6',
-		'url':'http://www.pc6.com/'
+		'url':'//www.pc6.com/'
 	},
 	{
 		'name':'华军软件',
-		'url':'http://www.onlinedown.net/'
+		'url':'//www.onlinedown.net/'
 	}
 ];

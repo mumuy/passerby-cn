@@ -1,31 +1,31 @@
 var _data = [
 	{
 		'name':'w3school',
-		'url':'http://www.w3school.com.cn/'
+		'url':'//www.w3school.com.cn/'
 	},
 	{
 		'name':'蓝色理想',
-		'url':'http://bbs.blueidea.com/'
+		'url':'//bbs.blueidea.com/'
 	},
 	{
 		'name':'CSDN',
-		'url':'http://www.csdn.net/'
+		'url':'//www.csdn.net/'
 	},
 	{
 		'name':'51cto.com',
-		'url':'http://www.51cto.com/'
+		'url':'//www.51cto.com/'
 	},
 	{
 		'name':'开源中国',
-		'url':'http://www.oschina.net/'
+		'url':'//www.oschina.net/'
 	},
 	{
 		'name':'在线工具',
-		'url':'http://tool.oschina.net/'
+		'url':'//tool.oschina.net/'
 	},
 	{
 		'name':'现代魔法学院',
-		'url':'http://www.nowamagic.net/'
+		'url':'//www.nowamagic.net/'
 	},
 	{
 		'name':'掘金',
@@ -33,6 +33,6 @@ var _data = [
 	},
 	{
 		'name':'路人甲',
-		'url':'http://passer-by.com/'
+		'url':'//passer-by.com/'
 	}
 ];

@@ -1,202 +1,202 @@
 ﻿var _data = [
 	{
 		'name':'17173',
-		'url':'http://www.17173.com/'
+		'url':'//www.17173.com/'
 	},
 	{
 		'name':'18183',
-		'url':'http://www.18183.com/'
+		'url':'//www.18183.com/'
 	},
 	{
 		'name':'4399小游戏',
-		'url':'http://www.4399.com/'
+		'url':'//www.4399.com/'
 	},
 	{
 		'name':'4399手游',
-		'url':'http://www.4399.cn/'
+		'url':'//www.4399.cn/'
 	},
 	{
 		'name':'多玩游戏',
-		'url':'http://www.duowan.com/'		
+		'url':'//www.duowan.com/'
 	},
 	{
 		'name':'新浪游戏',
-		'url':'http://games.sina.com.cn/'
+		'url':'//games.sina.com.cn/'
 	},
 	{
 		'name':'7k7k小游戏',
-		'url':'http://www.7k7k.com/'
+		'url':'//www.7k7k.com/'
 	},
 	{
 		'name':'游戏葡萄',
-		'url':'http://youxiputao.com/'	
+		'url':'//youxiputao.com/'
 	},
 	{
 		'name':'游戏网',
-		'url':'http://youxi.com/'
+		'url':'//youxi.com/'
 	},
 	{
 		'name':'太平洋游戏网',
-		'url':'http://www.pcgames.com.cn/'
+		'url':'//www.pcgames.com.cn/'
 	},
 	{
 		'name':'腾讯游戏',
-		'url':'http://games.qq.com/'	
+		'url':'//games.qq.com/'
 	},
 	{
 		'name':'龙图游戏',
-		'url':'http://longtugame.com/'
+		'url':'//longtugame.com/'
 	},
 	{
 		'name':'口袋巴士',
-		'url':'http://www.ptbus.com/'
+		'url':'//www.ptbus.com/'
 	},
 	{
 		'name':'游迅网',
-		'url':'http://www.yxdown.com/'
+		'url':'//www.yxdown.com/'
 	},
 	{
 		'name':'任玩堂',
-		'url':'http://www.appgame.com/'
+		'url':'//www.appgame.com/'
 	},
 	{
 		'name':'九游',
-		'url':'http://www.9game.cn/'
+		'url':'//www.9game.cn/'
 	},
 	{
 		'name':'手游网',
-		'url':'http://www.shouyou.com'
+		'url':'//www.shouyou.com'
 	},
 	{
 		'name':'网易手游',
-		'url':'http://game.163.com/'
+		'url':'//game.163.com/'
 	},
 	{
 		'name':'手游天下',
-		'url':'http://www.155.cn/'
+		'url':'//www.155.cn/'
 	},
 	{
 		'name':'当乐网',
-		'url':'http://www.d.cn/'		
+		'url':'//www.d.cn/'
 	},
 	{
 		'name':'不凡游戏',
-		'url':'http://www.bufan.com/'
+		'url':'//www.bufan.com/'
 	},
 	{
 		'name':'中国网游戏',
-		'url':'http://game.china.com/'
+		'url':'//game.china.com/'
 	},
 	{
 		'name':'手游之家',
-		'url':'http://www.sjwyx.com/'
+		'url':'//www.sjwyx.com/'
 	},
 	{
 		'name':'中国手游',
-		'url':'http://www.cmge.com/'	
+		'url':'//www.cmge.com/'
 	},
 	{
 		'name':'YOYO手游',
-		'url':'http://www.yoyojie.com/'		
+		'url':'//www.yoyojie.com/'
 	},
 	{
 		'name':'996',
-		'url':'http://www.996.com/'		
+		'url':'//www.996.com/'
 	},
 	{
 		'name':'66手游',
-		'url':'http://www.66sy.com/'		
+		'url':'//www.66sy.com/'
 	},
 	{
 		'name':'机锋网',
-		'url':'http://www.gfan.com/'		
+		'url':'//www.gfan.com/'
 	},
 	{
 		'name':'玩家网',
-		'url':'http://www.cngba.com/'
+		'url':'//www.cngba.com/'
 	},
 	{
 		'name':'游民星空',
-		'url':'http://www.gamersky.com/'
+		'url':'//www.gamersky.com/'
 	},
 	{
 		'name':'游侠网',
-		'url':'http://www.ali213.net/'
+		'url':'//www.ali213.net/'
 	},
 	{
 		'name':'电玩巴士',
-		'url':'http://www.tgbus.com/'
+		'url':'//www.tgbus.com/'
 	},
 	{
 		'name':'37游戏',
-		'url':'http://www.37.com/'
+		'url':'//www.37.com/'
 	},
 	{
 		'name':'中关村游戏频道',
-		'url':'http://game.zol.com.cn/'		
+		'url':'//game.zol.com.cn/'
 	},
 	{
 		'name':'91单机游戏',
-		'url':'http://www.91danji.com/'
+		'url':'//www.91danji.com/'
 	},
 	{
 		'name':'玩游戏网',
-		'url':'http://www.wanyx.com/'
+		'url':'//www.wanyx.com/'
 	},
 	{
 		'name':'2144小游戏',
-		'url':'http://www.2144.cn/'
+		'url':'//www.2144.cn/'
 	},
 	{
 		'name':'同步游戏中心',
-		'url':'http://game.tongbu.com/'
+		'url':'//game.tongbu.com/'
 	},
 	{
 		'name':'爱游戏',
-		'url':'http://www.play.cn/'		
+		'url':'//www.play.cn/'
 	},
 	{
 		'name':'天极网游戏',
-		'url':'http://game.yesky.com/'	
+		'url':'//game.yesky.com/'
 	},
 	{
 		'name':'小皮',
-		'url':'http://www.xiaopi.com/'	
+		'url':'//www.xiaopi.com/'
 	},
 	{
 		'name':'游戏园',
-		'url':'http://www.yxzoo.com/'
+		'url':'//www.yxzoo.com/'
 	},
 	{
 		'name':'3366',
-		'url':'http://www.3366.com/'
+		'url':'//www.3366.com/'
 	},
 	{
 		'name':'乐游网',
-		'url':'http://www.962.net/'
+		'url':'//www.962.net/'
 	},
 	{
 		'name':'网易游戏',
-		'url':'http://game.163.com/'
+		'url':'//game.163.com/'
 	},
 	{
 		'name':'3DM',
-		'url':'http://www.3dmgame.com/'
+		'url':'//www.3dmgame.com/'
 	},
 	{
 		'name':'donews',
-		'url':'http://game.donews.com/'
+		'url':'//game.donews.com/'
 	},
 	{
 		'name':'58游戏',
-		'url':'http://www.58game.com/'
+		'url':'//www.58game.com/'
 	},
 	{
 		'name':'不凡游戏',
-		'url':'http://www.bufan.com/'
+		'url':'//www.bufan.com/'
 	},
 	{
 		'name':'新浪玩玩',
-		'url':'http://wanwan.sina.com.cn/'
+		'url':'//wanwan.sina.com.cn/'
 	}
 ];

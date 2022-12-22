@@ -1,43 +1,43 @@
 var _data = [
 	{
 		'name':'画旅途',
-		'url':'http://www.hualvtu.com/'
+		'url':'//www.hualvtu.com/'
 	},
 	{
 		'name':'途牛网',
-		'url':'http://www.tuniu.com/'
+		'url':'//www.tuniu.com/'
 	},
 	{
 		'name':'穷游网',
-		'url':'http://www.qyer.com/'
+		'url':'//www.qyer.com/'
 	},
 	{
 		'name':'马蜂窝',
-		'url':'http://www.mafengwo.cn/'
+		'url':'//www.mafengwo.cn/'
 	},
 	{
 		'name':'蝉游记',
-		'url':'http://chanyouji.com/'
+		'url':'//chanyouji.com/'
 	},
 	{
 		'name':'磨房',
-		'url':'http://www.doyouhike.net/'
+		'url':'//www.doyouhike.net/'
 	},
 	{
 		'name':'面包旅行',
-		'url':'http://breadtrip.com/'
+		'url':'//breadtrip.com/'
 	},
 	{
 		'name':'艺龙旅游指南',
-		'url':'http://trip.elong.com/'
+		'url':'//trip.elong.com/'
 	},
 	{
 		'name':'欣欣旅游网',
-		'url':'http://www.cncn.com/'
+		'url':'//www.cncn.com/'
 	},
 	{
 		'name':'驴妈妈',
-		'url':'http://www.lvmama.com/'
+		'url':'//www.lvmama.com/'
 	},
 	{
 		'name':'airbnb',
@@ -45,86 +45,86 @@ var _data = [
 	},
 	{
 		'name':'游多多旅游',
-		'url':'http://www.yododo.com/'
+		'url':'//www.yododo.com/'
 	},
 	{
 		'name':'悦旅游',
-		'url':'http://www.yuelvxing.com/'
+		'url':'//www.yuelvxing.com/'
 	},
 	{
 		'name':'中国国家地理',
-		'url':'http://www.dili360.com/'
+		'url':'//www.dili360.com/'
 	},
 	{
 		'name':'国家地理中文网',
-		'url':'http://www.nationalgeographic.com.cn/'
+		'url':'//www.nationalgeographic.com.cn/'
 	},
 	{
 		'name':'美国国家地理频道',
-		'url':'http://www.natgeo.com.cn/'
+		'url':'//www.natgeo.com.cn/'
 	},
 	{
 		'name':'光明旅游',
-		'url':'http://travel.gmw.cn/'
+		'url':'//travel.gmw.cn/'
 	},
 	{
 		'name':'去哪儿攻略',
-		'url':'http://travel.qunar.com/'
+		'url':'//travel.qunar.com/'
 	},
 	{
 		'name':'新浪旅游',
-		'url':'http://travel.sina.com.cn/'
+		'url':'//travel.sina.com.cn/'
 	},
 	{
 		'name':'乐途',
-		'url':'http://www.lotour.com/'
+		'url':'//www.lotour.com/'
 	},
 	{
 		'name':'中华网旅游',
-		'url':'http://www.xinhuanet.com/travel/'
+		'url':'//www.xinhuanet.com/travel/'
 	},
 	{
 		'name':'网易旅游',
-		'url':'http://travel.163.com/'
+		'url':'//travel.163.com/'
 	},
 	{
 		'name':'人民网旅游',
-		'url':'http://travel.people.com.cn/'
+		'url':'//travel.people.com.cn/'
 	},
 	{
 		'name':'韩游网攻略',
-		'url':'http://www.hanyouwang.com/a/zizhuyou/'
+		'url':'//www.hanyouwang.com/a/zizhuyou/'
 	},
 	{
 		'name':'环球旅行',
-		'url':'http://go.huanqiu.com/'
+		'url':'//go.huanqiu.com/'
 	},
 	{
 		'name':'旅游天地',
-		'url':'http://www.travellingscope.com/'
+		'url':'//www.travellingscope.com/'
 	},
 	{
 		'name':'中国网旅游',
-		'url':'http://www.china.com.cn/travel/'
+		'url':'//www.china.com.cn/travel/'
 	},
 	{
 		'name':'西祠旅游',
-		'url':'http://www.xici.net/travel/'
+		'url':'//www.xici.net/travel/'
 	},
 	{
 		'name':'中国网旅游',
-		'url':'http://travel.china.com.cn/'
+		'url':'//travel.china.com.cn/'
 	},
 	{
 		'name':'乐视旅游',
-		'url':'http://travel.le.com/'
+		'url':'//travel.le.com/'
 	},
 	{
 		'name':'新华旅游',
-		'url':'http://travel.news.cn/'
+		'url':'//travel.news.cn/'
 	},
 	{
 		'name':'央视网旅游',
-		'url':'http://travel.cctv.com/'
+		'url':'//travel.cctv.com/'
 	}
 ];

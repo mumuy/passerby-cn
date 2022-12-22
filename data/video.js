@@ -1,123 +1,123 @@
 var _data = [
 	{
 		'name':'优酷',
-		'url':'http://www.youku.com/'		
+		'url':'//www.youku.com/'
 	},
 	{
 		'name':'土豆',
-		'url':'http://www.tudou.com/'		
+		'url':'//www.tudou.com/'
 	},
 	{
 		'name':'爱奇艺',
-		'url':'http://www.iqiyi.com/'		
+		'url':'//www.iqiyi.com/'
 	},
 	{
 		'name':'响巣看看',
-		'url':'http://www.kankan.com/'		
+		'url':'//www.kankan.com/'
 	},
 	{
 		'name':'腾讯视频',
-		'url':'http://v.qq.com/'
+		'url':'//v.qq.com/'
 	},
 	{
 		'name':'搜狐视频',
-		'url':'http://tv.sohu.com/'		
+		'url':'//tv.sohu.com/'
 	},
 	{
 		'name':'凤凰视频',
-		'url':'http://v.ifeng.com/'
+		'url':'//v.ifeng.com/'
 	},
 	{
 		'name':'酷6网',
-		'url':'http://www.ku6.com/'
+		'url':'//www.ku6.com/'
 	},
 	{
 		'name':'百度视频',
-		'url':'http://v.baidu.com/'		
+		'url':'//v.baidu.com/'
 	},
 	{
 		'name':'56网',
-		'url':'http://www.56.com/'		
+		'url':'//www.56.com/'
 	},
 	{
 		'name':'和讯网',
-		'url':'http://tv.hexun.com/'
+		'url':'//tv.hexun.com/'
 	},
 	{
 		'name':'NBA视频',
-		'url':'http://sports.sina.com.cn/nba/video/'		
+		'url':'//sports.sina.com.cn/nba/video/'
 	},
 	{
 		'name':'风行',
-		'url':'http://www.fun.tv/'
+		'url':'//www.fun.tv/'
 	},
 	{
 		'name':'PPTV',
-		'url':'http://www.pptv.com/'		
+		'url':'//www.pptv.com/'
 	},
 	{
 		'name':'电影网',
-		'url':'http://www.1905.com/'
+		'url':'//www.1905.com/'
 	},
 	{
 		'name':'央视网',
-		'url':'http://www.cntv.cn/index.shtml'
+		'url':'//www.cntv.cn/index.shtml'
 	},
 	{
 		'name':'pps',
-		'url':'http://www.pps.tv/'		
+		'url':'//www.pps.tv/'
 	},
 	{
 		'name':'YY直播',
-		'url':'http://www.yy.com/'		
+		'url':'//www.yy.com/'
 	},
 	{
 		'name':'v电影',
-		'url':'http://www.vmovier.com/'		
+		'url':'//www.vmovier.com/'
 	},
 	{
 		'name':'酷狗秀场',
-		'url':'http://fanxing.kugou.com/'		
+		'url':'//fanxing.kugou.com/'
 	},
 	{
 		'name':'暴风影音',
-		'url':'http://hd.baofeng.com/'
+		'url':'//hd.baofeng.com/'
 	},
 	{
 		'name':'360影视',
-		'url':'http://www.360kan.com/'
+		'url':'//www.360kan.com/'
 	},
 	{
 		'name':'hao123影视',
-		'url':'http://v.hao123.com/'
+		'url':'//v.hao123.com/'
 	},
 	{
 		'name':'芒果TV',
-		'url':'http://www.hunantv.com/'
+		'url':'//www.hunantv.com/'
 	},
 	{
 		'name':'熊猫TV',
-		'url':'http://www.panda.tv/'
+		'url':'//www.panda.tv/'
 	},
 	{
 		'name':'哔哩哔哩',
-		'url':'http://www.bilibili.com/'
+		'url':'//www.bilibili.com/'
 	},
 	{
 		'name':'acfun',
-		'url':'http://www.acfun.tv/'
+		'url':'//www.acfun.tv/'
 	},
 	{
 		'name':'第一视频',
-		'url':'http://www.v1.cn/'
+		'url':'//www.v1.cn/'
 	},
 	{
 		'name':'华数TV',
-		'url':'http://www.wasu.cn/'
+		'url':'//www.wasu.cn/'
 	},
 	{
 		'name':'虎牙直播',
-		'url':'http://www.huya.com/'
+		'url':'//www.huya.com/'
 	},
 	{
 		'name':'熊猫直播',

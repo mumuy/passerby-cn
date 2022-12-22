@@ -1,94 +1,94 @@
 var _data = [
 	{
 		'name':'乐鼠无牙',
-		'url':'http://www.nofm.cn/'		
+		'url':'//www.nofm.cn/'
 	},
 	{
 		'name':'豆瓣音乐',
-		'url':'http://music.douban.com/'
+		'url':'//music.douban.com/'
 	},
 	{
 		'name':'虾米音乐',
-		'url':'http://www.xiami.com/'		
+		'url':'//www.xiami.com/'
 	},
 	{
 		'name':'一听音乐',
-		'url':'http://www.1ting.com/'		
+		'url':'//www.1ting.com/'
 	},
 	{
 		'name':'多米',
-		'url':'http://www.duomi.com/'		
+		'url':'//www.duomi.com/'
 	},
 	{
 		'name':'网易云音乐',
-		'url':'http://music.163.com/'		
+		'url':'//music.163.com/'
 	},
 	{
 		'name':'酷狗音乐',
-		'url':'http://www.kugou.com/'		
+		'url':'//www.kugou.com/'
 	},
 	{
 		'name':'5sing',
-		'url':'http://5sing.kugou.com/index.html'
+		'url':'//5sing.kugou.com/index.html'
 	},
 	{
 		'name':'9酷音乐',
-		'url':'http://www.9ku.com/'
+		'url':'//www.9ku.com/'
 	},
 	{
 		'name':'百度音乐',
-		'url':'http://music.baidu.com/'
+		'url':'//music.baidu.com/'
 	},
 	{
 		'name':'咪咕音乐',
-		'url':'http://music.migu.cn/'
+		'url':'//music.migu.cn/'
 	},
 	{
 		'name':'酷我',
-		'url':'http://www.kuwo.cn/'
+		'url':'//www.kuwo.cn/'
 	},
 	{
 		'name':'365音乐网',
-		'url':'http://www.yue365.com/'
+		'url':'//www.yue365.com/'
 	},
 	{
 		'name':'QQ音乐',
-		'url':'http://y.qq.com/'
+		'url':'//y.qq.com/'
 	},
 	{
 		'name':'九天',
-		'url':'http://www.9sky.com/'
+		'url':'//www.9sky.com/'
 	},
 	{
 		'name':'5nd音乐',
-		'url':'http://www.5nd.com/'
+		'url':'//www.5nd.com/'
 	},
 	{
 		'name':'音乐吹泡地',
-		'url':'http://www.m-instyle.cn/'
+		'url':'//www.m-instyle.cn/'
 	},
 	{
 		'name':'echo回声',
-		'url':'http://www.app-echo.com/'
+		'url':'//www.app-echo.com/'
 	},
 	{
 		'name':'豆瓣FM',
-		'url':'http://douban.fm/'
+		'url':'//douban.fm/'
 	},
 	{
 		'name':'落网',
-		'url':'http://www.luoo.net/'
+		'url':'//www.luoo.net/'
 	},
 	{
 		'name':'音乐先锋榜',
-		'url':'http://music.weibo.com/'
+		'url':'//music.weibo.com/'
 	},
 	{
 		'name':'音悦台',
-		'url':'http://www.yinyuetai.com/'
+		'url':'//www.yinyuetai.com/'
 	},
 	{
 		'name':'好铃声',
-		'url':'http://www.haolingsheng.com/'
-	}	
+		'url':'//www.haolingsheng.com/'
+	}
 ];
