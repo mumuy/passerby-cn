@@ -4,14 +4,6 @@ var _data = [
 		'url':'//www.nipic.com/'
 	},
 	{
-		'name':'优艾网',
-		'url':'//chinaui.com/'
-	},
-	{
-		'name':'素材天下',
-		'url':'//www.sucaitianxia.com/'
-	},
-	{
 		'name':'站酷',
 		'url':'//www.zcool.com.cn/'
 	},
@@ -40,32 +32,12 @@ var _data = [
 		'url':'//shijue.me/'
 	},
 	{
-		'name':'设计路上',
-		'url':'//www.sj63.com/'
-	},
-	{
 		'name':'设计一周',
-		'url':'//ieday.cn/'
-	},
-	{
-		'name':'酷站志',
-		'url':'//www.coolweb.com.cn/'
-	},
-	{
-		'name':'想去',
-		'url':'//www.xiangqu.com/'
+		'url':'//shejiyizhou.com/'
 	},
 	{
 		'name':'学UI网',
 		'url':'//www.xueui.cn/'
-	},
-	{
-		'name':'简约生活',
-		'url':'//www.closhow.cn/'
-	},
-	{
-		'name':'爱北欧',
-		'url':'//www.ibeiou.com/'
 	},
 	{
 		'name':'设计在线',
@@ -76,40 +48,16 @@ var _data = [
 		'url':'//www.cndds.com/'
 	},
 	{
-		'name':'60designwebpick',
-		'url':'//60designwebpick.com/'
-	},
-	{
 		'name':'腾讯CDC',
 		'url':'//cdc.tencent.com/'
 	},
 	{
-		'name':'冰淇淋',
-		'url':'//www.fisherv.com/'
-	},
-	{
 		'name':'灵感日报',
-		'url':'//www.ideamsg.com/'
+		'url':'http://www.ideamsg.com/'
 	},
 	{
 		'name':'设计邦',
-		'url':'//designboom.cn/'
-	},
-	{
-		'name':'前沿设计',
-		'url':'//foreidea.com/'
-	},
-	{
-		'name':'追波',
-		'url':'//dribbble.cn/'
-	},
-	{
-		'name':'设计青年',
-		'url':'//design521.com/portal.php'
-	},
-	{
-		'name':'padmag',
-		'url':'//www.padmag.cn/'
+		'url':'http://designboom.cn/'
 	},
 	{
 		'name':'UI中国',
@@ -133,7 +81,7 @@ var _data = [
 	},
 	{
 		'name':'中国设计',
-		'url':'//www.cndesign.com/'
+		'url':'http://www.cndesign.com/'
 	},
 	{
 		'name':'黄蜂网',
@@ -145,7 +93,7 @@ var _data = [
 	},
 	{
 		'name':'设计腕儿',
-		'url':'//www.designwire.com.cn/'
+		'url':'http://www.designwire.com.cn/'
 	},
 	{
 		'name':'秀设计',

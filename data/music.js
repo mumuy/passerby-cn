@@ -1,7 +1,7 @@
 var _data = [
 	{
 		'name':'乐鼠无牙',
-		'url':'//www.nofm.cn/'
+		'url':'http://www.nofm.cn/'
 	},
 	{
 		'name':'豆瓣音乐',
@@ -14,10 +14,6 @@ var _data = [
 	{
 		'name':'一听音乐',
 		'url':'//www.1ting.com/'
-	},
-	{
-		'name':'多米',
-		'url':'//www.duomi.com/'
 	},
 	{
 		'name':'网易云音乐',
@@ -36,8 +32,8 @@ var _data = [
 		'url':'//www.9ku.com/'
 	},
 	{
-		'name':'百度音乐',
-		'url':'//music.baidu.com/'
+		'name':'千千音乐',
+		'url':'//music.91q.com/'
 	},
 	{
 		'name':'咪咕音乐',
@@ -49,7 +45,7 @@ var _data = [
 	},
 	{
 		'name':'365音乐网',
-		'url':'//www.yue365.com/'
+		'url':'http://www.yue365.com/'
 	},
 	{
 		'name':'QQ音乐',
@@ -57,27 +53,15 @@ var _data = [
 	},
 	{
 		'name':'九天',
-		'url':'//www.9sky.com/'
+		'url':'http://www.9sky.com/'
 	},
 	{
 		'name':'5nd音乐',
-		'url':'//www.5nd.com/'
-	},
-	{
-		'name':'音乐吹泡地',
-		'url':'//www.m-instyle.cn/'
-	},
-	{
-		'name':'echo回声',
-		'url':'//www.app-echo.com/'
+		'url':'http://www.5nd.com/'
 	},
 	{
 		'name':'豆瓣FM',
-		'url':'//douban.fm/'
-	},
-	{
-		'name':'落网',
-		'url':'//www.luoo.net/'
+		'url':'//fm.douban.com/'
 	},
 	{
 		'name':'音乐先锋榜',

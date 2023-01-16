@@ -24,12 +24,8 @@ var _data = [
 		'url':'//tool.oschina.net/'
 	},
 	{
-		'name':'现代魔法学院',
-		'url':'//www.nowamagic.net/'
-	},
-	{
 		'name':'掘金',
-		'url':'https://juejin.im/'
+		'url':'https://juejin.cn/'
 	},
 	{
 		'name':'路人甲',

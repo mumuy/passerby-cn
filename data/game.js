@@ -25,7 +25,7 @@
 	},
 	{
 		'name':'7k7k小游戏',
-		'url':'//www.7k7k.com/'
+		'url':'http://www.7k7k.com/'
 	},
 	{
 		'name':'游戏葡萄',
@@ -36,10 +36,6 @@
 		'url':'//youxi.com/'
 	},
 	{
-		'name':'太平洋游戏网',
-		'url':'//www.pcgames.com.cn/'
-	},
-	{
 		'name':'腾讯游戏',
 		'url':'//games.qq.com/'
 	},
@@ -48,16 +44,12 @@
 		'url':'//longtugame.com/'
 	},
 	{
-		'name':'口袋巴士',
-		'url':'//www.ptbus.com/'
-	},
-	{
 		'name':'游迅网',
 		'url':'//www.yxdown.com/'
 	},
 	{
 		'name':'任玩堂',
-		'url':'//www.appgame.com/'
+		'url':'http://www.appgame.com/'
 	},
 	{
 		'name':'九游',
@@ -65,7 +57,7 @@
 	},
 	{
 		'name':'手游网',
-		'url':'//www.shouyou.com'
+		'url':'http://www.shouyou.com'
 	},
 	{
 		'name':'网易手游',
@@ -80,32 +72,16 @@
 		'url':'//www.d.cn/'
 	},
 	{
-		'name':'不凡游戏',
-		'url':'//www.bufan.com/'
-	},
-	{
 		'name':'中国网游戏',
 		'url':'//game.china.com/'
 	},
 	{
 		'name':'手游之家',
-		'url':'//www.sjwyx.com/'
+		'url':'http://www.sjwyx.com/'
 	},
 	{
 		'name':'中国手游',
 		'url':'//www.cmge.com/'
-	},
-	{
-		'name':'YOYO手游',
-		'url':'//www.yoyojie.com/'
-	},
-	{
-		'name':'996',
-		'url':'//www.996.com/'
-	},
-	{
-		'name':'66手游',
-		'url':'//www.66sy.com/'
 	},
 	{
 		'name':'机锋网',
@@ -140,16 +116,8 @@
 		'url':'//www.91danji.com/'
 	},
 	{
-		'name':'玩游戏网',
-		'url':'//www.wanyx.com/'
-	},
-	{
 		'name':'2144小游戏',
 		'url':'//www.2144.cn/'
-	},
-	{
-		'name':'同步游戏中心',
-		'url':'//game.tongbu.com/'
 	},
 	{
 		'name':'爱游戏',
@@ -164,16 +132,8 @@
 		'url':'//www.xiaopi.com/'
 	},
 	{
-		'name':'游戏园',
-		'url':'//www.yxzoo.com/'
-	},
-	{
-		'name':'3366',
-		'url':'//www.3366.com/'
-	},
-	{
 		'name':'乐游网',
-		'url':'//www.962.net/'
+		'url':'http://www.962.net/'
 	},
 	{
 		'name':'网易游戏',
@@ -184,16 +144,8 @@
 		'url':'//www.3dmgame.com/'
 	},
 	{
-		'name':'donews',
-		'url':'//game.donews.com/'
-	},
-	{
 		'name':'58游戏',
 		'url':'//www.58game.com/'
-	},
-	{
-		'name':'不凡游戏',
-		'url':'//www.bufan.com/'
 	},
 	{
 		'name':'新浪玩玩',

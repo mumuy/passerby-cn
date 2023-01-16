@@ -16,16 +16,8 @@ var _data = [
         'url':'//www.meishichina.com/'
     },
     {
-        'name':'中国菜谱网',
-        'url':'//www.chinacaipu.com/'
-    },
-    {
-        'name':'美食吧',
-        'url':'//www.sbar.com.cn/'
-    },
-    {
         'name':'菜肴之家',
-        'url':'//www.haozuo123.com/'
+        'url':'http://www.haozuo123.com/'
     },
     {
         'name':'天天饮食',
@@ -36,23 +28,11 @@ var _data = [
         'url':'//www.bilibili.com/video/ent-food-1.html'
     },
     {
-        'name':'手工客',
-        'url':'//www.shougongke.com/category/13.html'
-    },
-    {
         'name':'网易美食',
         'url':'//travel.163.com/food/'
     },
     {
         'name':'搜狐美食',
         'url':'//chihe.sohu.com/'
-    },
-    {
-        'name':'呀觅',
-        'url':'//www.tripyum.com/'
-    },
-    {
-        'name':'美食掌门',
-        'url':'//www.meishiwang.cc/'
     }
 ];
