@@ -45,7 +45,7 @@ var _data = [
     },
     {
         'name':'搜狐美食',
-        'url':'//chihe.sohu.com/chihe_new.shtml'
+        'url':'//chihe.sohu.com/'
     },
     {
         'name':'呀觅',
