@@ -12,10 +12,6 @@ var _data = [
 		'url':'//www.iqiyi.com/'
 	},
 	{
-		'name':'响巣看看',
-		'url':'//www.kankan.com/'
-	},
-	{
 		'name':'腾讯视频',
 		'url':'//v.qq.com/'
 	},
@@ -33,7 +29,7 @@ var _data = [
 	},
 	{
 		'name':'百度视频',
-		'url':'//v.baidu.com/'
+		'url':'//v.xiaodutv.com/'
 	},
 	{
 		'name':'56网',
@@ -41,7 +37,7 @@ var _data = [
 	},
 	{
 		'name':'和讯网',
-		'url':'//tv.hexun.com/'
+		'url':'http://tv.hexun.com/'
 	},
 	{
 		'name':'NBA视频',
@@ -64,24 +60,12 @@ var _data = [
 		'url':'//www.cntv.cn/index.shtml'
 	},
 	{
-		'name':'pps',
-		'url':'//www.pps.tv/'
-	},
-	{
 		'name':'YY直播',
 		'url':'//www.yy.com/'
 	},
 	{
-		'name':'v电影',
-		'url':'//www.vmovier.com/'
-	},
-	{
 		'name':'酷狗秀场',
 		'url':'//fanxing.kugou.com/'
-	},
-	{
-		'name':'暴风影音',
-		'url':'//hd.baofeng.com/'
 	},
 	{
 		'name':'360影视',
@@ -89,23 +73,15 @@ var _data = [
 	},
 	{
 		'name':'hao123影视',
-		'url':'//v.hao123.com/'
+		'url':'//v.hao123.baidu.com/'
 	},
 	{
 		'name':'芒果TV',
-		'url':'//www.hunantv.com/'
-	},
-	{
-		'name':'熊猫TV',
-		'url':'//www.panda.tv/'
+		'url':'//www.mgtv.com/'
 	},
 	{
 		'name':'哔哩哔哩',
 		'url':'//www.bilibili.com/'
-	},
-	{
-		'name':'acfun',
-		'url':'//www.acfun.tv/'
 	},
 	{
 		'name':'第一视频',
@@ -118,9 +94,5 @@ var _data = [
 	{
 		'name':'虎牙直播',
 		'url':'//www.huya.com/'
-	},
-	{
-		'name':'熊猫直播',
-		'url':'https://www.panda.tv/'
 	}
 ];

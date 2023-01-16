@@ -12,10 +12,6 @@ var _data = [
 		'url':'//www.appinn.com/'
 	},
 	{
-		'name':'软件盒子',
-		'url':'//www.itopdog.cn/'
-	},
-	{
 		'name':'711软件站',
 		'url':'//www.soft711.com/'
 	},
@@ -32,12 +28,8 @@ var _data = [
 		'url':'//www.portablesoft.org/'
 	},
 	{
-		'name':'机锋网',
-		'url':'//apk.gfan.com/'
-	},
-	{
 		'name':'天空软件',
-		'url':'//www.skycn.com/'
+		'url':'http://www.skycn.com/'
 	},
 	{
 		'name':'木蚂蚁',
@@ -45,7 +37,7 @@ var _data = [
 	},
 	{
 		'name':'应用汇',
-		'url':'//www.appchina.com/'
+		'url':'http://www.appchina.com/'
 	},
 	{
 		'name':'中关村下载',

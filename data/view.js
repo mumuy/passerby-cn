@@ -15,4 +15,4 @@ var _data = [
 		'name':'译言',
 		'url':'//www.yeeyan.org/'
 	}
-}
+];

@@ -12,20 +12,12 @@ var _data = [
 		'url':'//tech.qq.com/'
 	},
 	{
-		'name':'cnbeta',
-		'url':'//www.cnbeta.com/'
-	},
-	{
 		'name':'和讯科技',
 		'url':'//tech.hexun.com/'
 	},
 	{
 		'name':'雷锋网',
 		'url':'//www.leiphone.com/'
-	},
-	{
-		'name':'21CN科技',
-		'url':'//it.21cn.com/'
 	},
 	{
 		'name':'环球科技',
@@ -49,7 +41,7 @@ var _data = [
 	},
 	{
 		'name':'techweb',
-		'url':'//www.techweb.com.cn/'
+		'url':'http://www.techweb.com.cn/'
 	},
 	{
 		'name':'爱范儿',
@@ -58,10 +50,6 @@ var _data = [
 	{
 		'name':'DoNews',
 		'url':'//www.donews.com/'
-	},
-	{
-		'name':'tech2ipo',
-		'url':'//tech2ipo.com/'
 	},
 	{
 		'name':'科技网',
@@ -85,23 +73,15 @@ var _data = [
 	},
 	{
 		'name':'飞象网',
-		'url':'//www.cctime.com/'
+		'url':'http://www.cctime.com/'
 	},
 	{
 		'name':'艾瑞网',
 		'url':'//www.iresearch.cn/'
 	},
 	{
-		'name':'猎云网',
-		'url':'//www.lieyunwang.com/'
-	},
-	{
 		'name':'新芽',
 		'url':'//newseed.pedaily.cn/'
-	},
-	{
-		'name':'cnnet科技讯',
-		'url':'//www.cnetnews.com.cn/'
 	},
 	{
 		'name':'泡泡网',
@@ -144,8 +124,8 @@ var _data = [
 		'url':'//www.chinaz.com/'
 	},
 	{
-		'name':'ipc.me',
-		'url':'//www.ipc.me/'
+		'name':'Ipcfun',
+		'url':'//www.ipcfun.com/'
 	},
 	{
 		'name':'科学松鼠会',
